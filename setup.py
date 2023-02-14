@@ -32,7 +32,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
-    license="All rights reserved, Copyright IBM Corporation 2022. SPDX-License-Identifier: MIT",
+    license="All rights reserved, Copyright IBM Corporation 2023. SPDX-License-Identifier: MIT",
     classifiers=[
         "Programming Language :: Python :: 3"
     ],
