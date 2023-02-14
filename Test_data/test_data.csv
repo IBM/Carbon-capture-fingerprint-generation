@@ -1,0 +1,6 @@
+label,smiles,made_up_capacity
+A0,OCC(=O)CN,0.5
+B1,NCCO,0.7
+C2,OCc1ccncc1,0.2
+D3,C=CCN(CCCC)CCCC,1.2
+E4,CCNCC,0.1
